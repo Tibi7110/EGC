@@ -6,6 +6,8 @@ An interactive school project exploring how AI techniques can assist graphics mo
 
 ## Run locally
 
+## Or by the following link: https://egc-five.vercel.app/
+
 Requires Node.js 22 and npm.
 
 ```bash
